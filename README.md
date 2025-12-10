@@ -1,1 +1,8 @@
 # BA775-Project
+Team Members: Aryan Jain, Liyang Peng (Leon), Yifan Han, Yiheng Chen, Yue Yin, Zexuan Wang
+
+This project analyzes how airline punctuality and delay causes evolved in 2024 across the U.S. domestic aviation system. Using two nationwide flight datasets from Kaggle, we cleaned, standardized, and processed more than 13 million flight records entirely in BigQuery to reveal operational patterns that are otherwise difficult to observe at scale. Our study focuses on how delay levels vary by airline, airport, seasonality, and root causes such as weather or late-arriving aircraft.
+
+The findings show that overall on-time performance improved modestly in 2024, but structural issues—especially weather disruptions and aircraft turnaround delays—remain persistent across carriers. Major airlines demonstrate divergent trends: while some improved schedule efficiency, others experienced increased delays during peak travel seasons. These differences reveal how operational strategy, fleet coordination, and resource allocation influence performance outcomes.
+
+Through extensive data cleaning, SQL-based analysis, visualization, and multi-dimensional comparisons, this project transforms large-scale, fragmented flight data into actionable insights. The results help airlines and airports identify when and where delays are most likely to occur, which carriers and hubs are most susceptible, and whether delays are driven by uncontrollable external factors or internal operational bottlenecks. Ultimately, these insights support more informed decisions around scheduling, staffing, infrastructure planning, and delay-mitigation strategies across the U.S. aviation network.
